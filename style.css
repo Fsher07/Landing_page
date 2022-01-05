@@ -1,0 +1,120 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius:10px;
+    background-color:#3882F6;
+}
+.f-img{
+    width: 700px;
+    background: none;
+    padding: 0;
+    border-radius:0;
+}ul{
+    display: flex;
+    list-style-type: none;
+    margin-bottom: 64px;
+    padding: 0;
+    gap: 16px;
+}.header, .footer{
+    display: flex;
+    background: #1F2937;
+    color: #E5E7EB;
+    flex-direction: column;
+    padding: 16px 256px 64px 256px;
+}a{
+    color: #E5E7EB;
+    text-decoration: none;
+    font-size: 18px;
+}.heromain{
+    display: flex;
+    font-size: 48px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    font-weight: 900;
+    margin-bottom: 16px;
+}.topside{
+    display: flex;
+    justify-content: space-between;
+}.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}.h-intro{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}.h-column{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+    width: 500px;
+    gap: 16px;
+}.herotext{
+    display: flex;
+    margin-top: -25px;
+    flex-wrap: wrap;
+    
+}button{
+    border-radius: 5px 15px;
+    background: grey;
+    color: whitesmoke;
+    height: 40px;
+    width: 90px;
+    font-size: 16px;
+}.midinfo{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    margin-bottom: 30px;
+}.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+}.text{
+    text-align: center;
+    width: 200px;
+    font-size: 20px;
+    margin-top: 10px;
+    color: #3882F6;
+}.quote{
+    display: flex;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container2{
+    display: flex;
+    padding:10em 50em ;
+    background: #E5E7EB;
+    margin-top: 10em;
+    flex-direction: column;
+}.writer{
+    margin-top: 15px;
+    text-align: end;
+    font-size: 25px;
+    font-weight: bold;
+}.container3{
+    display: flex;
+    background: #3882F6;
+    margin:10em 0;
+    margin-left: 35em;
+    
+    padding:5em 10em ;
+    border-radius:10px;
+    justify-content: space-between;
+    width: 800px;
+}.above-text{
+    font-size: 25px;
+    color: #E5E7EB;
+}body{
+    font-family: Arial, Helvetica, sans-serif;
+}.footer{
+    align-items: center;
+    justify-content: center;
+    padding: 2em 30em;
+}
